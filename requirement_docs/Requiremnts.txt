@@ -1,0 +1,8 @@
+Quotation
+1. auto number for Quote number
+2. drowpdown for companies
+3. dopdown for operators
+4. deopdownn for machines
+5. dropdwon for daily, weekly, monthly
+6. Mobilization & Demobilization
+7. Multiple select for terms and conditions

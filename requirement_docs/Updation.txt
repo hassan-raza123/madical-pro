@@ -1,0 +1,24 @@
+remove customer from expired documents
+
+all fields nullable
+
+Oil Categories
+
+Fleet Service (categories Checkbox Type, Meter Reading of Vehicle (Per Hour Or Per KM), Next Service Meter Reading)
+
+Employee Expense (Category, description, amount, date)
+
+Quotation (Mobilization, Demobilization)
+
+
+Terms Selectable
+
+Payment Mode (Cash, Advance PDC, 15 Days, 30 Days, 45 Days, 60 Days, 90 days)
+
+
+
+Registration with equipment name
+
+
+Quotations
+send, print, save as pdf, save as word
